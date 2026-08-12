@@ -3,6 +3,7 @@
     <v-btn stacked>
       <v-badge
         color="error"
+        tag="span"
         dot
       >
         <v-icon icon="mdi-newspaper-variant-outline"></v-icon>
@@ -14,6 +15,7 @@
     <v-btn stacked>
       <v-badge
         color="error"
+        tag="span"
         dot
       >
         <v-icon icon="mdi-post"></v-icon>
